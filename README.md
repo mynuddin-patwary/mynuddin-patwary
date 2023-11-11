@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mynuddin Patwary
 - 👀 I’m interested in aviation and programming
-- 🌱 I’m currently learning Object  oriented Programming
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (https://www.facebook.com/mynuddin.patwary/)
+- 📫 How to reach me (https://www.linkedin.com/in/mynuddin-patwary/, https://www.facebook.com/mynuddin.patwary/)
 
 <!---
 mynuddin-patwary/mynuddin-patwary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

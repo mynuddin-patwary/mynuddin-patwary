@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mynuddin Patwary
 - 👀 I’m interested in aviation and programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently a final year student of CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/mynuddin-patwary/, https://www.facebook.com/mynuddin.patwary/)
 
